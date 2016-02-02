@@ -1,0 +1,13 @@
+{
+	"Asset": {
+		"Name": "Etnius",
+		"Classification": "Metacluster",
+		"Description": "Etnius is a metacluster of space-time fabric that exists in Amaterasu, host to countless clusters that house countless universes.",
+		"World Origin": {
+			"Name": "Amaterasu",
+			"Version": 0.01,
+			"Hash of Signature": "db8c746872d589a7c24dcacc28fb5a1da5c74b4dbfb586f1aa21e72f69857ee23f4f115c270e63bc6e3dd4a59a06ea7bdc475dfd54cde3c3952718c63eeddd4c",
+			"Hash Type": "SHA512"
+		}
+	}
+}

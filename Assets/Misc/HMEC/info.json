@@ -1,0 +1,16 @@
+{
+	"Asset": {
+		"Name": "Hyperefficient Matter and Energy Converter",
+		"Abbriviation": "HMEC (HiMech)",
+		"Type": "Tool",
+		"Classification": "Manipulator",
+		"Advancement level": "Type ‡Y-minus",
+		"Description": "HMEC is a Type VI-minus tool, able to manipulate the most elementary particles of matter (quarks and leptons) to create organized complexity among populations of elementary particles; culminating in. The efficiency of its conversions is 99.99% and this tool is reinception of 5% of the universe it exists in.",
+		"World Origin": {
+			"Name": "Amaterasu",
+			"Version": 0.01,
+			"Hash of Signature": "db8c746872d589a7c24dcacc28fb5a1da5c74b4dbfb586f1aa21e72f69857ee23f4f115c270e63bc6e3dd4a59a06ea7bdc475dfd54cde3c3952718c63eeddd4c",
+			"Hash Type": "SHA512"
+		}
+	}
+}
