@@ -6,8 +6,8 @@
 		"World Origin": {
 			"Name": "Amaterasu",
 			"Version": 0.01,
-			"Hash of Signature": "db8c746872d589a7c24dcacc28fb5a1da5c74b4dbfb586f1aa21e72f69857ee23f4f115c270e63bc6e3dd4a59a06ea7bdc475dfd54cde3c3952718c63eeddd4c",
-			"Hash Type": "SHA512"
+			"Hash of Signature": "3afcb4ff97d82a7ea13f752c2216193b88fbe7a0",
+			"Hash Type": "SHA256"
 		}
 	}
 }
